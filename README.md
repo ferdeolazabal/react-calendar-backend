@@ -1,4 +1,13 @@
-# Backend MERN - Calendar
+# Calendar PWA app
+## Backend MERN - Calendar
+
+## Demo
+
+[Calendar PWA](https://calendar-ferdeolazabal.netlify.app/)
+
+## Backend endpoint
+
+https://react-calendar-backend-ua8h.onrender.com/api
 
 ## Tecnologias utilizadas:
 
