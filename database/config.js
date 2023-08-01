@@ -2,7 +2,6 @@ const mongoose = require("mongoose");
 
 const dbConnection = async () => {
   const DATABASE_URL = process.env.DB_CNN;
-  console.log("DATABASE_URL =>", DATABASE_URL);
   try {
     // @ts-ignore
     mongoose.connect(DATABASE_URL, {
